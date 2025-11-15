@@ -16,7 +16,7 @@ Framework: React 19 + Vite 7 + TailwindCSS 4
 https://github.com/Pablo-Arreola/036-F-PabloArreola
 
 **Aplicación desplegada:**  
-
+https://036-f-pablo-arreola.vercel.app/
 
 ## 🛠 Tecnologías usadas
 - React 19
